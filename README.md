@@ -1,3 +1,2 @@
-# Simple Angular Webpack Build
+# Angular Custom Webpack Build
 
-webpack.config.js
